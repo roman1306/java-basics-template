@@ -1,8 +1,4 @@
 package com.epam.izh.rd.online.service;
-
-import com.sun.org.apache.xpath.internal.objects.XNumber;
-
-import java.beans.beancontext.BeanContextChild;
 import java.util.Arrays;
 
 public class SimpleMathService implements MathService {
